@@ -1,4 +1,3 @@
-package Example3;
 
 /*
  This program illustrates the difference

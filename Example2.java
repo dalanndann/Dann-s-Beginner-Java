@@ -1,4 +1,3 @@
-package Example2;
 
 /*
     This demonstrates a variable.

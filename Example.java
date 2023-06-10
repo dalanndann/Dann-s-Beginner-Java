@@ -1,4 +1,3 @@
-package Example;
 
 /*
  This is a simple Java program.
