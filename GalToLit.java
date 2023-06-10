@@ -10,6 +10,11 @@ class GalToLit {
          * In the reference, the variables are declared separately, as in Example 3
          * but I'm putting them together so I can spend my character count on comments
          * like this
+         * 
+         * As I'm reading the next lesson, I find out this is called
+         * a comma-separated list.
+         * "When you need two or more variables of the same type,
+         * they can be declared in one statement."
          */
 
         gallons = 10; // start with 10 gallons
