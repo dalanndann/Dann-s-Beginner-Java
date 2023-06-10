@@ -37,3 +37,19 @@ class IfDemo {
             System.out.println("c is negative");
     }
 }
+
+/*
+ * Dann's notes
+ * if is a condition statement
+ * condition is a Boolean expression - either true or false only
+ * if true --> statement is executed
+ * if false --> statement is bypassed
+ * 
+ * < Less than
+ * <= less than or equal to
+ * > greater than
+ * >= greater than or equal to
+ * == equal to
+ * != not equal to
+ * 
+ */
