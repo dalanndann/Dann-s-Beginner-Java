@@ -2,8 +2,6 @@
 Try This 1-2 
 
 This program displays a conversion table of gallons to liters.
-
-Call this program "GalToLitTable.java".
 */
 
 class GalToLitTable {
