@@ -1,7 +1,7 @@
 # Dann-s-Beginner-Java
 <p>Welcome to my first repository!</p>
 
-<p> This is where I will upload my exercises from a Java-for-Beginners ebook.</p>
+<p> This is where I upload my exercises/outputs based on a Java-for-Beginners ebook.</p>
     It's not much, but I'm a beginner anyway!
 
 <p> I put comments on my works. They reflect my insights and thoughts at the moment of writi-- err, in this case, coding. </br>
