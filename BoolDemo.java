@@ -20,3 +20,18 @@ class BoolDemo {
         System.out.println("10 > 9 is " + (10 > 9));
     }
 }
+
+/*
+ * Dann's Notes
+ * BOOLEAN - represents true/false values
+ * a variable or expression of this type will be one of these values (either
+ * true or false)
+ * 
+ * When a boolean value is output by println(), "true" or "false" is displayed
+ * The value of a boolean variable is sufficient, by itself, to control the if
+ * statement.
+ * No need to write an if statement like 'if (b == true)'
+ * The outcome of a relational operator is a boolean value
+ * Parentheses around 10>9 is necessary because the + operator has a higher
+ * precedence than >
+ */
