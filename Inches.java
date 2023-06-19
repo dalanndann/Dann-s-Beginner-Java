@@ -10,7 +10,7 @@ class Inches {
 
         ci = im * im * im;
 
-        System.out.println("There are " + ci + " cubic inches in cubic mile");
+        System.out.println("There are " + ci + " cubic inches in 1 cubic mile.");
     }
 }
 
