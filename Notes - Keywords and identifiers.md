@@ -1,4 +1,4 @@
-Keywords
+KEYWORDS
 
 - 61 currently defined
 - form the definition of the Java language when combined with the syntax of the operators and separators
@@ -6,7 +6,8 @@ Keywords
 - - exception: context-sensitive
 - underscore also considered a keyword to prevent its use as the name of something in one's program
 
-Java Keywords
+</br>
+JAVA KEYWORDS
 
 - abstract
 - assert
@@ -69,12 +70,13 @@ Java Keywords
 - while
 - with
 - \_
-
+</br>
 - - const and goto are reserved but not used
 - - true, false, and null are also reserved keywords. These are values defined by Java.
 - - var has been added as context-sensitive, reserved type name
 
-Identifier(s)
+</br></br>
+IDENTIFIER(S)
 
 - name given to a method, a variable, or any other user-defined item
 - can be from one to several characters long
