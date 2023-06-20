@@ -21,6 +21,6 @@ Escape sequence and description
 
 </br>
 
-Examples
-ch = '\t'; --> this assigns ch the tab character
-ch = '\''; --> this assignes a single quote to ch
+Examples </br>
+ch = '\t'; --> this assigns ch the tab character </br>
+ch = '\''; --> this assignes a single quote to ch </br>
