@@ -7,16 +7,17 @@ ESCAPE SEQUENCES
 
 Escape sequence and description
 
-- \' (single quote)
-- \" (double quote)
-- \\ (backslash)
-- \r (carriage return)
-- \n (new line)
-- \f (form feed)
-- \t (horizontal tab)
-- \b (backspace)
-- \ddd (octal constant - where ddd is an octal constant)
-- \uxxxx hexadecimal constant (where xxxx is a hexadecimal constant)
+<p> \' (single quote)
+\" (double quote)
+\\ (backslash)
+\r (carriage return)
+\n (new line)
+\f (form feed)
+\t (horizontal tab)
+\b (backspace)
+\ddd (octal constant - where ddd is an octal constant)
+\uxxxx hexadecimal constant (where xxxx is a hexadecimal constant)
+</p>
 
 </br>
 
