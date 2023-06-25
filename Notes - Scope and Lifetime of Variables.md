@@ -33,5 +33,5 @@ Scope defined by a METHOD
 - scopes can be nested
 - each time you create a block of code, you are creating a new, nested scope
 - the outer scope encloses the inner scope
-- objects declared in the outer scoep will be visible to code within the inner scope
+- objects declared in the outer scope will be visible to code within the inner scope
 - objects declared within the inner scope will not be visible outside it
