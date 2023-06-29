@@ -8,7 +8,7 @@ class NestVarCorr {
             System.out.println("This is count: " + count);
 
             int count2 = 0;
-            for (count2 = 0; count2 < 2; count2++)
+            for (count = 0; count2 < 2; count2++)
                 System.out.println("(hidden)");
         }
     }
@@ -34,6 +34,9 @@ class NestVarCorr {
  * System.out.println("(hidden)");
  * 
  * My mistakes:
- * for loop Ln11 should remain count1 (maybe)
+ * for loop Ln11 should remain count (maybe)
+ * 
+ * 3) condition Ln 11 changed to count2
+ * Result: endless This is count: 1; hidden; hidden
  * 
  */
