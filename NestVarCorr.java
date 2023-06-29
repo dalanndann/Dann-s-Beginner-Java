@@ -5,11 +5,10 @@ class NestVarCorr {
         int count;
 
         for (count = 0; count < 10; count = count + 1) {
+            for (count = 0; count < 2; count++)
+                System.out.println("(hidden)");
             System.out.println("This is count: " + count);
 
-            int count2 = 0;
-            for (count = 0; count2 < 2; count2++)
-                System.out.println("(hidden)");
         }
     }
 }
@@ -39,4 +38,6 @@ class NestVarCorr {
  * 3) condition Ln 11 changed to count2
  * Result: endless This is count: 1; hidden; hidden
  * 
+ * 4) remove count2 altogether
+ * Result: endless This is count: 2; hidden; hidden
  */
