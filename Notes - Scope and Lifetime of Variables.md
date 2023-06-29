@@ -35,3 +35,6 @@ Scope defined by a METHOD
 - the outer scope encloses the inner scope
 - objects declared in the outer scope will be visible to code within the inner scope
 - objects declared within the inner scope will not be visible outside it
+  </br>
+
+  - no variable declared within an inner scope can have the same name as a variable declared by an enclosing scope
