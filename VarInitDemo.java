@@ -12,3 +12,8 @@ class VarInitDemo {
         }
     }
 }
+
+/*
+ * y is reinitialized to -1 each time the inner for loop is entered
+ * value 100 is lost
+ */
