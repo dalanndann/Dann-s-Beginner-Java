@@ -7,9 +7,9 @@ class NestVarCorr {
         for (count = 0; count < 2; count++)
             System.out.println("(hidden)");
 
-        for (count = 2; count < 10; count++)
-            System.out.println("This is count: " + count);
-
+        if (count >= 2)
+            for (count = 2; count < 10; count++)
+                System.out.println("This is count: " + count);
     }
 }
 
@@ -51,4 +51,9 @@ class NestVarCorr {
  * 
  * 6) create two separate for loops
  * Counts 0 and 1 still appearing, each after (hidden)
+ * 
+ * 7) for loop for <2 and if statement for >=2
+ * Result: Success!
+ * Rmks: Maybe there's a more efficient way to code this
+ * 
  */
