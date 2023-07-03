@@ -4,12 +4,12 @@ class NestVarCorr {
     public static void main(String[] args) {
         int count;
 
-        for (count = 0; count < 10; count = count + 1) {
-            if (count < 2)
-                System.out.println("(hidden)");
+        for (count = 0; count < 2; count++)
+            System.out.println("(hidden)");
+
+        for (count = 2; count < 10; count++)
             System.out.println("This is count: " + count);
 
-        }
     }
 }
 
@@ -48,4 +48,7 @@ class NestVarCorr {
  * (hidden) is incorrect
  * 
  * Rmks: this is so much better than my previous solutions
+ * 
+ * 6) create two separate for loops
+ * Counts 0 and 1 still appearing, each after (hidden)
  */
