@@ -5,7 +5,7 @@ class NestVarCorr {
         int count;
 
         for (count = 0; count < 10; count = count + 1) {
-            for (count = 0; count < 2; count++)
+            if (count < 2)
                 System.out.println("(hidden)");
             System.out.println("This is count: " + count);
 
@@ -40,4 +40,12 @@ class NestVarCorr {
  * 
  * 4) remove count2 altogether
  * Result: endless This is count: 2; hidden; hidden
+ * 
+ * 5) remove 2nd for loop
+ * use if instead
+ * 
+ * Result: ended at count 9
+ * (hidden) is incorrect
+ * 
+ * Rmks: this is so much better than my previous solutions
  */
