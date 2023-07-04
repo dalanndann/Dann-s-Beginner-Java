@@ -12,8 +12,8 @@ class NestVar {
         for (count = 0; count < 10; count = count + 1) {
             System.out.println("This is count: " + count);
 
-            int count;
-            for (count = 0; count < 2; count++)
+            int count2;
+            for (count2 = 0; count2 < 2; count++)
                 System.out.println("This program is in error!");
         }
     }
