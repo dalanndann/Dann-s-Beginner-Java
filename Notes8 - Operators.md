@@ -52,3 +52,10 @@ y = x++; </br>
 
 - y will be set to 10
 - x is still set to 11
+
+</br>
+
+Additional notes on prefixing and postfixing (from stackoverflow)
+
+- ++x will give the result of new x
+- x++ will give the result of original x and store the new x for the next action
