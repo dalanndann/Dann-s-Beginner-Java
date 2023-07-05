@@ -4,6 +4,7 @@ LITERALS
 - also commonly called constants
 
 Java literals can be of any of the primitive data types
+
 - The way each literal is represented depends upon its type </br></br>
   Character constants are enclosed in single quotes</br>
   'a'</br>
