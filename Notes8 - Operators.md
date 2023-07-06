@@ -59,3 +59,11 @@ Additional notes on prefixing and postfixing (from stackoverflow)
 
 - ++x will give the result of new x
 - x++ will give the result of original x and store the new x for the next action
+
+</br>
+
+RELATIONAL AND LOGICAL OPERATORS
+
+- relational - relationships that values can have with one another
+- logical - ways in which true and false values can be connected together
+- outcome is a boolean value
