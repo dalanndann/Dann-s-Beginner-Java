@@ -8,9 +8,13 @@ OPERATORS
 - increment (++)
 - decrement (--)0
 
+</br>
+</br>
+</br>
+
 INCREMENT AND DECREMENT
 </br>
-</br>
+
 INCREMENT OPERATOR - adds 1 to its operand </br>
 x = x + 1; </br>
 is the same as</br>
@@ -33,9 +37,12 @@ can be written as
 No difference with these examples
 
 </br>
-When an increment/decrement is used as a part of a larger expression, there is an IMPORTANT DIFFERENCE. </br>
-When an increment/decrement OPERATOR PRECEDES ITS OPERAND, Java will perform the corresponding operation prior to obtaining the operand's value for use by the rest of the expression. </br>
-If the OPERATOR FOLLOWS ITS OPERAND, Java will obtain the operand's value before incrementing/decrementing it. </br>
+
+- When an increment/decrement is used as a part of a larger expression, there is an IMPORTANT DIFFERENCE. </br>
+- When an increment/decrement OPERATOR PRECEDES ITS OPERAND, Java will perform the corresponding operation prior to obtaining the operand's value for use by the rest of the expression. </br>
+- If the OPERATOR FOLLOWS ITS OPERAND, Java will obtain the operand's value before incrementing/decrementing it. </br>
+
+</br>
 
 Example 1 </br>
 x = 10; </br>
