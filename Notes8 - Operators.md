@@ -77,6 +77,19 @@ RELATIONAL AND LOGICAL OPERATORS
 
 </br>
 
+RELATIONAL OPERATORS
+
+- == = equal to
+- != = not equal to
+- > = greater than
+- < = less than
+- > = = greater than or equal to
+- <= = less than or equal to
+
+</br>
+
+LOGICAL OPERATORS
+
 - & = AND
 - | = OR
 - ^ = XOR (exclusive OR)
