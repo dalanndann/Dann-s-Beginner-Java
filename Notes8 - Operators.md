@@ -74,3 +74,12 @@ RELATIONAL AND LOGICAL OPERATORS
 - relational - relationships that values can have with one another
 - logical - ways in which true and false values can be connected together
 - outcome is a boolean value
+
+</br>
+
+- & = AND
+- | = OR
+- ^ = XOR (exclusive OR)
+- || = short-circuit OR
+- && = short-circuit AND
+- ! = NOT
