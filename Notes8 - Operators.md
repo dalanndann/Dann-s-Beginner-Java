@@ -96,3 +96,9 @@ LOGICAL OPERATORS
 - || = short-circuit OR
 - && = short-circuit AND
 - ! = NOT
+
+</br>
+
+SHORT-CIRCUIT LOGICAL OPERATORS
+
+- evaluate the second operand only when necessary, vs normal operands that always evaluate each operand
