@@ -102,3 +102,23 @@ LOGICAL OPERATORS
 SHORT-CIRCUIT LOGICAL OPERATORS
 
 - evaluate the second operand only when necessary, vs normal operands that always evaluate each operand
+
+</br>
+
+ASSIGNMENT OPERATOR
+
+- single equal sign
+- var = expression
+- the type of var must be compatible with the type of expression
+- allows you to create a chain of assignments, ex. x = y = z = 100;
+- yields to the value of the right-hand expression
+
+</br>
+
+SHORTHAND ASSIGNMENTS
+
+- simplify the coding of certain assignment statements </br>
+
+ex. x = x + 10; </br>
+can be written as: </br>
+x += 10;
