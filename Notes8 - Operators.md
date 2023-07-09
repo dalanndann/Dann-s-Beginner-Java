@@ -121,4 +121,5 @@ SHORTHAND ASSIGNMENTS
 
 ex. x = x + 10; </br>
 can be written as: </br>
-x += 10;
+x += 10; </br>
+assign to x the value of x plus 10
