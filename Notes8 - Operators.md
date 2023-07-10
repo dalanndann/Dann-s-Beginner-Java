@@ -123,3 +123,17 @@ ex. x = x + 10; </br>
 can be written as: </br>
 x += 10; </br>
 assign to x the value of x plus 10
+
+</br>
+</br>
+
+ex2. x = x - 100; </br>
+is the same as </br>
+x -= 100; </br>
+both statements assign x to the value of x minus 100
+
+</br>
+</br>
+
+- will work for all binary operators in Java
+- general form: var op = expression
