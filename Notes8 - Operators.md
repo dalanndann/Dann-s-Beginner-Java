@@ -137,3 +137,21 @@ both statements assign x to the value of x minus 100
 
 - will work for all binary operators in Java
 - general form: var op = expression
+
+</br>
+</br>
+
+ARITHMETIC AND LOGICAL SHORTHAND ASSIGNMENT OPERATORS</br>
+they are formally referred to as COMPOUND ASSIGNMENT OPERATORS</br>
+
+- provide two benefits: 1) more compact and 2) in some cases, more efficient
+  </br>
+
+- +=
+- -=
+- \*=
+- /=
+- %=
+- &=
+- |=
+- ^=
