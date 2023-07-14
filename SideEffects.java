@@ -9,16 +9,16 @@ class SideEffects {
          * Here, i is still incremented even though
          * the if statement fails.
          */
-        if (false & (++i < 100))
-            System.out.println("this won't be displayed");
+        // if (false & (++i < 100))
+        // System.out.println("this won't be displayed");
         System.out.println("if statement executed: " + i); // displays 1
 
         /*
          * in this case, i is not incremented because
          * the short-circuit operator skips the increment.
          */
-        if (false && (++i < 100))
-            System.out.println("this won't be displayed");
+        // if (false && (++i < 100))
+        // System.out.println("this won't be displayed");
         System.out.println("if statement excecuted: " + i); // still 1
 
     }
