@@ -27,3 +27,17 @@ class CastDemo {
 
     }
 }
+
+/*
+ * DANN'S NOTES
+ * Cast of (x/y) to int results in the truncation of fractional component.
+ * Info is lost
+ * 
+ * No loss of info when b is assigned the value 100
+ * Byte can hold the value 100
+ * 
+ * When attempt is made to assign the value 257, info loss occurs
+ * 257 exceeds a byte's max value
+ * 
+ * No info lost, but cast needed when assigning byte value to a char
+ */
