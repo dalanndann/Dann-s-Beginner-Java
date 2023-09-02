@@ -13,3 +13,10 @@ class PromDemo {
         System.out.println("i and b: " + i + " " + b);
     }
 }
+
+/*
+ * Dann's notes
+ * 
+ * b*b to i - no cast needed
+ * b*b to b - cast back to byte
+ */
