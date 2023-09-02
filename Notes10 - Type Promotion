@@ -1,0 +1,13 @@
+It is possible to mix 2 or more different types of data </br>
+as long as they are <b>they are compatible with each other</b> </br> </br>
+
+Ex. </br>
+short and long, both are numeric types </br>
+char, byte, short --> promoted to int </br>
+if one operand is a long --> long </br>
+float </br>
+double </br></br>
+
+</br>
+Promotions apply only to the values operated upon when an expression is evaluated. </br>
+Type promotion only affects the evaluation of an expression.
